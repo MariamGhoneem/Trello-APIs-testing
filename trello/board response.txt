@@ -1,0 +1,100 @@
+{
+    "id": "634ef2ab012362035bb46733",
+    "aaId": "634ef2a8fc0cc7a600ac8bfe",
+    "activityBlocked": false,
+    "avatarHash": "9d95c7a039202400ef54483f89dcf977",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/634ef2ab012362035bb46733/9d95c7a039202400ef54483f89dcf977",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "Mariam Ghoneem",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "MG",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/mariamghoneem",
+    "username": "mariamghoneem",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "maryam.ghoneem@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "cb0f53bd9ca9c2529e4d50d785cc0f12",
+    "idBoards": [
+        "63617ebc92f16b029ac93f40"
+    ],
+    "idOrganizations": [
+        "634ef2ca3172e4016b1ee761"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-10-18T18:38:37.442Z"
+    },
+    "messagesDismissed": [],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "13",
+    "boards": [
+        {
+            "id": "63617ebc92f16b029ac93f40",
+            "name": "Project Management",
+            "closed": false,
+            "idOrganization": "634ef2ca3172e4016b1ee761",
+            "pinned": false
+        }
+    ]
+}
